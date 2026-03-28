@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@source "../**/*.{js,ts,jsx,tsx}";
+
+/* Nếu tw-animate-css là một plugin hoặc file css riêng */
+
